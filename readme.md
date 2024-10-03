@@ -9,4 +9,4 @@ Windows has a default limitation of 128 for the some gamma adjustments. This can
 "GdiIcmGammaRange"=dword:00000100
 ```
 
-You can simply download the `ICM.reg` and run it to create the key, and you must restart Windows afterwards to take effect.
+You can simply download the `ICM.reg` and run it to create the key, and you have to restart Windows afterwards to take effect.
